@@ -1,0 +1,36 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src = "@drawable/newcard"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold|italic"
+        android:padding="20dp"
+        android:textColor="@android:color/white"
+        android:text= "Happy Birthday, Katheryn! May all your wishes come true!" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:padding="10dp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold|italic"
+        android:text="From your friend, Milla" />
+
+</RelativeLayout>
