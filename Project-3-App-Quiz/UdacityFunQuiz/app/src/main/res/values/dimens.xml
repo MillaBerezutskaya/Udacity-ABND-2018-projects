@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Padding">10dp</dimen>
+    <dimen name="TitleSize">20sp</dimen>
+    <dimen name="TextViewMarginStart">10dp</dimen>
+    <dimen name="TextViewMarginLeft">10dp</dimen>
+    <dimen name="TextViewMarginTop">10dp</dimen>
+    <dimen name="question_size">20sp</dimen>
+    <dimen name="question_size1">15sp</dimen>
+    <dimen name="RadioButtonMarginStart">10dp</dimen>
+    <dimen name="CheckButtonMarginStart">10dp</dimen>
+    <dimen name="EditTextMarginStart">10dp</dimen>
+    <dimen name="TextSize">20sp</dimen>
+    <dimen name="ButtonSpace">10dp</dimen>
+    <dimen name="ButtonPadding">15dp</dimen>
+</resources>
