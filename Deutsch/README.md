@@ -1,8 +1,8 @@
-Miwok App
+Deutsch app
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of vocabulary words for the user to learn the Deutsch language.
+Used in a Udacity course in the Beginning Android Nanodegree. Based on Miwok app. 
 
 Pre-requisites
 --------------
